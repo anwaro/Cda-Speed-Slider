@@ -1,0 +1,28 @@
+{
+  "name": "cda-speed-slider",
+  "version": "1.0.0",
+  "description": "Cda speed slider",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anwaro/Cda-Speed-Slider.git"
+  },
+  "keywords": [
+    "cda",
+    "speed",
+    "slider"
+  ],
+  "author": "Łukasz Micał",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anwaro/Cda-Speed-Slider/issues"
+  },
+  "homepage": "https://github.com/anwaro/Cda-Speed-Slider#readme"
+}
